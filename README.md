@@ -6,11 +6,11 @@ This project is the result of completing the Udemy course “The Complete SQL Bo
 
 ***
 
-### 🛡️ License
+### License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-### 🌟 About Me
+### About Me
 
 Hi there! I’m an IT professional currently working as an Enterprise Support Engineer for a large SaaS company. I’m passionate about data and data manipulation, and this project represents my first step into the data world. I’m excited to continue building my knowledge and to create a similar repository of my own in the future.
 
@@ -21,7 +21,7 @@ This is a copy of the original repository, which can be found here: https://gith
 
 ***
 
-### 🚀 Project Requirements
+### Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
