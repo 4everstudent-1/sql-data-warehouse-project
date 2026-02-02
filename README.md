@@ -17,7 +17,8 @@ Hi there! I’m an IT professional currently working as an Enterprise Support En
 Thank you for stopping by!
 
 ***
-This is a copy of the original repository, which can be found here: https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main 
+
+This repository is part of the SQL course by DataWithBaraa. https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main?tab=readme-ov-file#-repository-structure
 
 ***
 
@@ -96,14 +97,4 @@ data-warehouse-project/
 └── requirements.txt         # Project dependencies
 ```
 
-
-### Objective
-
-Develop SQL-based analytics to deliver detailed insights into:
-
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
